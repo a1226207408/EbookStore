@@ -7,7 +7,7 @@
 .project
 .settings      
  ##filter databfile、sln file##
-*.mdb  
+*.mdb
 *.ldb  
 *.sln    
 ##class file##
@@ -22,7 +22,7 @@
 *.dmg  
 *.gz  
 *.iso  
-*.jar  
+
 *.rar  
 *.tar  
 *.zip  
